@@ -1,7 +1,8 @@
 # Arduino-HBridge-LN298n
 
 ![LNa](https://github.com/ICAREMAKER/Arduino-HBridge-LN298n/assets/107696317/a7abafc2-93a1-4f82-9c95-3fbf4ea08760)
-![LNa](https://github.com/ICAREMAKER/Arduino-HBridge-LN298n/assets/107696317/3afd3761-a8da-48d3-bddc-83078df3c578)
+![LN](https://github.com/ICAREMAKER/Arduino-HBridge-LN298n/assets/107696317/f80e77cf-6318-4ef7-9e9f-3ea6d60af4d5)
+
 
 ## Code
 ```C
